@@ -18,7 +18,7 @@
 4. [Distribute & Manage your API](doc/003.md)
     1. Publish your API to Mashery
     2. Configure the API Definitions & API Packages
-    3. Register an Application for an API Key  
+    3. Create Interactive Documentation  
 5. [Test your APIs](doc/004.md)
     1. Register an Application for an API Key
     2. Test the API using Postman
